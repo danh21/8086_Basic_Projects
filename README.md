@@ -25,3 +25,4 @@
 
     - printSequence:
         + Version 1: enter the value N in range of 0-9. Program shows that value N times. 
+        + Version 2: enter the value N in range of 0-9. If N >= 5, program prints sequence from N to 0. Otherwise, program prints from N to 9. 
