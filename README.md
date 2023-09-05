@@ -16,3 +16,5 @@
         + Version 2: enter the number of digits for 2 operands (1-4). If the number of digits is valid, program prints 'T' and asks user to enter 2 numbers. Program calculates arithmetic between 2 operands (summation, subtraction) and displays results. Otherwise, program prints 'F' and asks user to enter again.
 
     - bin2dec: converts binary sequence to decimal value.
+
+    - dec2bin: converts decimal value to binary sequence, then specifies that value is either even or odd.
