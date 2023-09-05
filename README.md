@@ -18,3 +18,5 @@
     - bin2dec: converts binary sequence to decimal value.
 
     - dec2bin: converts decimal value to binary sequence, then specifies that value is either even or odd.
+
+    - isPrime: enter the value in range of 0-9. Program specifies that value is the prime number or not.
