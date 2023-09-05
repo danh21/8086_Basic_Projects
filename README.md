@@ -22,3 +22,6 @@
     - isPrime: enter the value in range of 0-9. Program specifies that value is the prime number or not.
 
     - upper_lower: converts uppercase letter to lowercase letter and vice versa.
+
+    - printSequence:
+        + Version 1: enter the value N in range of 0-9. Program shows that value N times. 
